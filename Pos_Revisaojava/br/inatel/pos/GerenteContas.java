@@ -4,6 +4,8 @@ public class GerenteContas {
 
 	public void atualizarTodasContas() {
 		
+		//modificação
+		
 	};
 	
 	public void adicionar(Atualizacao a) {
